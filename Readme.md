@@ -1,4 +1,4 @@
-# Mobile_Robotics_Framework
+# Mobile_Robotics_Exercises
 Exercises of the course *Introduction to Mobile Robotics*.   
 This is a very good course.  
 SS2021：http://ais.informatik.uni-freiburg.de/teaching/ss21/robotics/  
